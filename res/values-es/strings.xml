@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Scrapbook</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="i1">Riga - París de Letonia</string>
+    <string name="i2">Puente Kachidoki , Tokio</string>
+    <string name="i3">Clyde Audirtorium Glasgow , Escocia</string>
+    <string name="i4">El Jefferson Memorial , Washington DC</string>
+    <string name="i1desc">Imagen de Riga , París de Letonia</string>
+    <string name="i2desc">Imagen del puente Kachidoki , Tokio</string>
+	<string name="i3desc">Imagen de Clyde Audirtorium Glasgow , Escocia</string>
+    <string name="i4desc">Fotos del The Jefferson Memorial , Washington DC</string>
+</resources>
